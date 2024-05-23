@@ -23,7 +23,7 @@ You can use the latest version of `result-pattern` by adding it as a dependency 
 ## Usage
 
 ```js
-let { Result } = require('../src/main');
+let { Result } = require('@ronaldzav/result-pattern');
 
 function divide(a, b) {
     if (b == 0) {
@@ -71,5 +71,3 @@ Returns the error of the failed result, or throws an error if the result is succ
 ## License
 Copyright 2024 Ronald Zavaleta |
 [Apache-2.0 License](https://github.com/RonaldZav/result-pattern/blob/master/LICENSE) | [Support](https://ronaldzav.com/discord)
-
-
