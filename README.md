@@ -23,7 +23,7 @@ You can use the latest version of `result-pattern` by adding it as a dependency 
 ## Usage
 
 ```js
-let { Result } = require('../src/main');
+let { Result } = require('@ronaldzav/result-pattern');
 
 function divide(a, b) {
     if (b == 0) {
