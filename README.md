@@ -71,5 +71,3 @@ Returns the error of the failed result, or throws an error if the result is succ
 ## License
 Copyright 2024 Ronald Zavaleta |
 [Apache-2.0 License](https://github.com/RonaldZav/result-pattern/blob/master/LICENSE) | [Support](https://ronaldzav.com/discord)
-
-

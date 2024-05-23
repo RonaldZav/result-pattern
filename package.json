@@ -1,6 +1,6 @@
 {
   "name": "@ronaldzav/result-pattern",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Alternative to Try/catch for JavaScript",
   "main": "src/main.js",
   "repository": "https://github.com/RonaldZav/result-pattern",
