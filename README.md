@@ -66,7 +66,7 @@ Returns the value of the successful result, or throws an error if the result is 
 Returns the error of the failed result, or throws an error if the result is successful.
 
 ## Speed Comparison
-![](https://github.com/RonaldZav/result-pattern/blob/master/test/speed-test-result.png)
+![Speed Test Comparison Image](https://raw.githubusercontent.com/RonaldZav/result-pattern/main/test/speed-test-result.png)
 
 ## License
 Copyright 2024 Ronald Zavaleta |
